@@ -1,5 +1,5 @@
 Hi, I’m @ChrisDavi3s 
-You've stumbled on my project page. Heres a quick overview: 
+You've stumbled across project page! Heres a quick overview: 
 
 🌡️ CO2/Weatherstation
 - An ESP32 based weatherstation using an eink display such that the whole device can be used on battery (The ESP32 supports deep sleep states). Also want to implement a NDIR CO2 monitor, and temperature and humidity sensors. Very WIP but exams :(

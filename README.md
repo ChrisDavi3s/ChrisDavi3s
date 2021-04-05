@@ -1,4 +1,4 @@
-👋 Hi, I’m @ChrisDavi3s 
+Hi, I’m @ChrisDavi3s 
 You've stumbled on my project page. Heres a quick overview: 
 
 🌡️ CO2/Weatherstation

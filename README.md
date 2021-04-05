@@ -10,6 +10,8 @@ You've stumbled across project page! Heres a quick overview:
 🥼 Python for labs
 - Snippets of code I always forget. Please find here an example of my work submitted.
 
+⛈️ThunderLamp
+- An LED lamp that has LIGHTNING!
 
 Todo:
 -Upload lamp code

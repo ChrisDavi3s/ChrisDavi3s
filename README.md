@@ -18,7 +18,7 @@ Todo:
 -Upload more weather station code
 -Actually lean how to use git properly so I dont have to do this manually uhh
 
-This is all a WIP but I hope some of this makes sense. Thanks for looking!
+This is all a WIP but I hope some of this makes sense. I've never formally been taught any code so a lot of this is very much a mess. Thanks for looking!
 
 
 
